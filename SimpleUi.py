@@ -136,7 +136,7 @@ def home_page():
     features = [
         {"icon": "🚀", "title": "Instant Launch", "desc": "Near-zero loading times"},
         {"icon": "🔋", "title": "Low Resource Use", "desc": "Optimized for battery life"},
-        {"icon": "🛡️", "title": "Privacy First", "desc": "No tracking, no ads"},
+        {"icon": "🛡️", "title": "Privacy First", "desc": "No premissions Needed, No tracking, no ads"},
         {"icon": "🎯", "title": "Focus Mode", "desc": "Minimal distraction design"}
     ]
     
